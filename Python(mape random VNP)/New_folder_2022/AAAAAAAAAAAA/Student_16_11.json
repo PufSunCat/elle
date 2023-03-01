@@ -1,0 +1,16 @@
+{
+    "Students" : [
+        { 
+        "Name" : "Vera",
+        "Surname" : "Plotņikova",
+        "Agev" : 16,
+        "Shool" : "Olaines 1 vsk"
+        },
+        { 
+        "Name" : "Lena",
+        "Surname" : "Ruķis",
+        "Agev" : 27,
+        "Shool" : "Universitāte"
+        }
+    ]
+}
